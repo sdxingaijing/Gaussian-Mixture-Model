@@ -1,5 +1,5 @@
 # Gaussian-Mixture-Model of multivariate gaussian(normal distribution)
-#This model is estimated by MCMC
+#This GMM(finite mixture model of normal distribution) is estimated by MCMC
 #input some packages for random distribution and matrix manipilation
 
 library(matrixStats)
