@@ -1,6 +1,7 @@
 # Gaussian-Mixture-Model of multivariate gaussian(normal distribution)
 #This model is estimated by MCMC
 #input some packages for random distribution and matrix manipilation
+
 library(matrixStats)
 library(bayesm)
 library(MCMCpack)
